@@ -1,5 +1,10 @@
-## Hi there 👋
+![kraken skull banner](./imgs/github-profile-banner.jpg "Robert's Profile Banner")
 
+[Blog](https://resume.casetek.net/)
+[Boilerplates](https://github.com/KreaMuzik/boilerplates)
+[LinkedIn](https://linkedin.com/in/robert-lee-case)
+
+[Email](mailto:robert@casetek.net)
 <!--
 **KreaMuzik/KreaMuzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
